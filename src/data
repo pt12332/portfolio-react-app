@@ -1,0 +1,27 @@
+export const data=[
+    {
+      name: 'Restaurant',
+      image: projectOneImage,
+      github: 'https://github.com/pt12332/213',
+      live: 'https://mason.gmu.edu/~ptran48/213project5/index.html'
+    },
+    {
+      name: 'App Cart',
+      image: projectTwoImage,
+      github: 'https://github.com/pt12332/Apps-Cart',
+      // live not included for project two
+    },
+    {
+      name: 'Authenticate-graphic-user',
+      image: projectThreeImage,
+      github: 'https://github.com/pt12332/Authenticate-graphic-user-',
+      // live not included for project three
+    },
+    {
+      name: 'WeatherApp',
+      image: projectFourImage,
+      github: 'https://github.com/pt12332/WeatherApp',
+      live: 'https://www.veed.io/view/9bb1ae86-ecad-4dc3-b49a-7bd5db2693b0?panel=share'
+    },
+    // ... add additional projects if any
+  ];
